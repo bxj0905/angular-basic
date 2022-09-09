@@ -2,4 +2,9 @@
     "navigationFallback": {
         "rewrite": "/index.html"
     }
+  "networking":{
+    "allowedIPRangs"：[
+      "58.248.69.164/32"
+    ]
+  }
 }
