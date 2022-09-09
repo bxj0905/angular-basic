@@ -1,6 +1,6 @@
 {
   "networking":{
-    "allowedIPRangs"：[
+    "allowedIPRangs":[
       "58.248.69.164/32"
     ]
   }
